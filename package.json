@@ -1,6 +1,6 @@
 {
-  "name": "typescript",
-  "version": "0.0.0",
+  "name": "breakout-game",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "rxjs": "^7.5.7"
